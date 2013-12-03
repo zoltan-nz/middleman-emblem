@@ -7,4 +7,4 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'barber-emblem', github: "szines/barber-emblem"
-gem 'emblem-source', '>=0.3.2'
+gem 'emblem-source', '>=0.3.5'
